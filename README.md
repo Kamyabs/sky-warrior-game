@@ -16,7 +16,7 @@ or
 anything .. :)
 
 ## Game images
-![alt text](https://imgur.com/83b75073-ef8e-40bf-ab71-c3814a38a024)
+![alt text](https://i.imgur.com/0Mk53mu.png)
 
 
 
