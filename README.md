@@ -20,7 +20,7 @@ anything .. :)
 
 
 
-## list of library used in this project:
+## list of librarys used in this project:
 
 -turtle
 
