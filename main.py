@@ -9,7 +9,7 @@ def game_loop():
 
     screen.setup(900,800)
     screen.tracer(0)
-    screen.title('jump jet')
+    screen.title('Sky Warrior')
     background = 'img/gg.gif'
     screen.bgpic(background)
 
@@ -29,7 +29,7 @@ def game_loop():
     user_name = screen.textinput('enter your name','whats your name? ')
 
     screen.listen()
-    screen.onkey(game.creat_missle,'w')
+    screen.onkey(game.creat_missle,'f')
     screen.onclick(game.move_player_jet)
 
 
