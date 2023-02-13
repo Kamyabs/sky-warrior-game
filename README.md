@@ -15,6 +15,10 @@ use its code as a teacher for edu purpose
 or
 anything .. :)
 
+## Game images
+![alt text](https://imgur.com/83b75073-ef8e-40bf-ab71-c3814a38a024)
+
+
 
 list of library used in this project:
 
@@ -45,6 +49,9 @@ python3 main.py
 use 'f' on keyboard to shoot missles
 
 use 'mouse left' buttom to move your jet
+
+
+
 
 
 ## Contributing
